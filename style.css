@@ -1,0 +1,21 @@
+img {
+    max-height: 375px;
+    max-width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:50px;
+}
+.heading {
+    text-align: center;
+    box-sizing: border-box;
+    border: solid black 3px;
+    margin-left: 100px;
+    margin-right:100px;
+   
+}
+
+
+a:link {
+    color: black;
+}
