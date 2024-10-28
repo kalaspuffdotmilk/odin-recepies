@@ -12,10 +12,37 @@ img {
     border: solid black 3px;
     margin-left: 100px;
     margin-right:100px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
    
+}
+.pp {
+    
+    display: inline-block;
+    padding-left: 400px;
+}
+
+div.container {
+    border: solid black 2px;
+    box-sizing: border-box;
+    margin: 20px;
+    text-align: left;
+}
+
+a {
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
 
 a:link {
     color: black;
+}
+a:visited {
+    color: gray;
+}
+a:hover {
+    color: orange;
+}
+a:active {
+    color:red;
 }
